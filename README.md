@@ -12,7 +12,7 @@ The neural network architecture used for this Dog Breed Identifier consists of X
 - **InceptionResNetV2**: A hybrid CNN architecture combining the Inception and ResNet modules for improved accuracy.
 
 ## Custom Input
-The Gradio interface allows users to input images of dogs using two methods:
+The Gradio interface allows for the following:
 - **Upload Image**: Users can upload an image file of a dog from their device.
 
 ## Example Outputs with Gradio
