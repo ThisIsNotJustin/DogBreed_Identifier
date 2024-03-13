@@ -14,7 +14,6 @@ The neural network architecture used for this Dog Breed Identifier consists of X
 ## Custom Input
 The Gradio interface allows users to input images of dogs using two methods:
 - **Upload Image**: Users can upload an image file of a dog from their device.
-- **Canvas Drawing**: Users can draw a custom image of a dog using the canvas interface provided by Gradio.
 
 ## Example Outputs with Gradio
 ![Golden Retriever](https://github.com/ThisIsNotJustin/DogBreed_Identifier/blob/main/examples/goldenretriever.png)
