@@ -142,6 +142,7 @@ demo = gr.Interface(
     dogbreed_identifier,
     gr.Image(type="filepath"),
     gr.Label(),
+    allow_flagging='never',
 )
 
 demo.launch(debug='True')
