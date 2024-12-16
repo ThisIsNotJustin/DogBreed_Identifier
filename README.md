@@ -1,6 +1,6 @@
 # Dog Breed Identifier
 
-![HuggingFace](https://huggingface.co/spaces/ThisIsNotJustin/dogbreed_identifier)
+[HuggingFace](https://huggingface.co/spaces/ThisIsNotJustin/dogbreed_identifier)
 
 ## Introduction
 This Dog Breed Identifier is a machine learning model built with TensorFlow and integrated with Gradio for quick and seamless UI. The model is capable of identifying the breed of a dog from any input image!
