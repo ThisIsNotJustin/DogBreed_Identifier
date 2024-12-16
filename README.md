@@ -1,10 +1,12 @@
 # Dog Breed Identifier
 
+![HuggingFace](https://huggingface.co/spaces/ThisIsNotJustin/dogbreed_identifier)
+
 ## Introduction
-This Dog Breed Identifier is a machine learning model built with TensorFlow and integrated with Gradio, a library for creating customizable input interfaces. The model is capable of identifying the breed of a dog from an image.
+This Dog Breed Identifier is a machine learning model built with TensorFlow and integrated with Gradio for quick and seamless UI. The model is capable of identifying the breed of a dog from any input image!
 
 ## Dataset
-The model is trained on the Stanford Dogs Dataset, which consists of images of 120 dog breeds. I downloaded the dataset from [here](https://www.kaggle.com/competitions/dog-breed-identification/data). Each image in the dataset is labeled with its corresponding breed.
+The model is trained on the Stanford Dogs Dataset, which consists of images of 120 dog breeds. I downloaded the dataset from [kaggle](https://www.kaggle.com/competitions/dog-breed-identification/data). Each image in the dataset is labeled with its corresponding breed.
 
 ## Model Architecture
 The neural network architecture used for this Dog Breed Identifier consists of Xception and InceptionResNetV2
@@ -14,6 +16,7 @@ The neural network architecture used for this Dog Breed Identifier consists of X
 ## Custom Input
 The Gradio interface allows for the following:
 - **Upload Image**: Users can upload an image file of a dog from their device.
+- **Output**: Users can expect a classification of the dog image they input.
 
 ## Example Outputs with Gradio
 ![Golden Retriever](https://github.com/ThisIsNotJustin/DogBreed_Identifier/blob/main/examples/goldenretriever.png)
